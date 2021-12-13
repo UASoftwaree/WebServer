@@ -1,4 +1,4 @@
-# Web Server in NodeJS Express
+# WebServer using NodeJS Express
  This is a basic web server created for users to run on their websites without the use on a hosting server.
 
  ## **Features**
