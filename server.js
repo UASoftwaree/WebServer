@@ -6,7 +6,7 @@ const publicPath = "/public"
 //404 Webpage
 
 //Webserver Redirect
-app.get('/sponsor',(req,res)=>res.redirect("https://daulric.tk"))
+app.get('/sponsor',(req,res)=>res.redirect("https://daulric.tk/subscription"))
 
 
 //Accessing Files without the use of extentions
